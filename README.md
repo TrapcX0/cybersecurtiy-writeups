@@ -1,1 +1,1 @@
-# cybersecurtiy-writeup
+# cybersecurtiy-writeups
